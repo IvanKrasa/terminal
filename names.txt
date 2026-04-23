@@ -11,3 +11,4 @@ Eva
 Another line from user1
 critical bug fixed
 line from user1 - lesson about rebase
+add new information
